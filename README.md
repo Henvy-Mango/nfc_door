@@ -34,3 +34,6 @@ String uid[15][1]; //最多保存15张卡片，有需要可以修改
 
 ![pic](https://cdn.jsdelivr.net/gh/Henvy-Mango/nfc_door@latest/layout-button.png)
 
+> NodeMCU开发版
+
+![pic](https://cdn.jsdelivr.net/gh/Henvy-Mango/nfc_door@latest/nodemcu.png)
